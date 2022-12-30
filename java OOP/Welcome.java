@@ -1,0 +1,5 @@
+public class Welcome{
+    public static void main(String[]args){
+        System.out.println("Hello,Welcome to Java Hope You Stay A While");
+    }
+}
